@@ -1,0 +1,6 @@
+/.env*
+/wallet*.json
+/keypair*.json
+/output/
+*.jsonl
+*.tar.gz
